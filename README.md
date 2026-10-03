@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of wvbdev/tieba-stickers.** Not for installation: use [Packagist](https://packagist.org/packages/wvbdev/tieba-stickers) or the [upstream repository](https://github.com/wvbdev/tieba-stickers).
 
-**0** versions archived · Latest: [`v4.0.0`](https://github.com/flarchive/wvbdev-tieba-stickers/tree/archive/v4.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**6** versions archived · Latest: [`v4.0.0`](https://github.com/flarchive/wvbdev-tieba-stickers/tree/archive/v4.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-06-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/wvbdev-tieba-stickers/tree/archive/v0.1.0) |
+| `0.2.0` | 2020-01-20 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/wvbdev-tieba-stickers/tree/archive/v0.2.0) |
+| `0.2.1` | 2020-03-21 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/wvbdev-tieba-stickers/tree/archive/v0.2.1) |
+| `0.2.2` | 2020-08-15 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/wvbdev-tieba-stickers/tree/archive/v0.2.2) |
+| `0.3.0` | 2020-10-17 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/wvbdev-tieba-stickers/tree/archive/v0.3.0) |
+| `v4.0.0` | 2021-06-26 | `^1.0.0` | [Browse](https://github.com/flarchive/wvbdev-tieba-stickers/tree/archive/v4.0.0) |
 
 Catalog entry: [packages/wvbdev-tieba-stickers.json](https://github.com/flarchive/archive-index/blob/main/packages/wvbdev-tieba-stickers.json)
 
